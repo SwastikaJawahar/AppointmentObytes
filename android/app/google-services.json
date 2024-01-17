@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051244227309",
+    "project_id": "appointmentobytes",
+    "storage_bucket": "appointmentobytes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051244227309:android:4534d9e47c089cc51bbae4",
+        "android_client_info": {
+          "package_name": "com.appointmentowner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPp9uyNCSOjLlR9YukMXTI5MGolSmzZ3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
